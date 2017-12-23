@@ -23,7 +23,7 @@
 - Mirroring Tool
 - Image Scaling/Canvas Resizing
 
-##Demo screenshots:
+## Demo screenshots:
 
 ![screenshot](https://github.com/tjenki35/SMACT_SpriteEditor/blob/master/Sprite_Editor_Extreme/resources/demoshot.png?raw=true)
 ![screenshot](https://github.com/tjenki35/SMACT_SpriteEditor/blob/master/Sprite_Editor_Extreme/resources/demoshot2.png?raw=true)
