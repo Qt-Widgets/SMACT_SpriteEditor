@@ -1,6 +1,6 @@
 # SMACT eXtreme Sprite Editor
-*Created for Software Practice II* @ the University of Utah
-*_This is a group project, see contributors for more info_*
+*Created for Software Practice II* @ the University of Utah </br>
+**_This is a group project, see [contributors](https://github.com/tjenki35/SMACT_SpriteEditor/graphs/contributors)_**
 
 ## Features: 
 
