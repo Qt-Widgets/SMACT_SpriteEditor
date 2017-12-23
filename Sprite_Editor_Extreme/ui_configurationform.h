@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'configurationform.ui'
 **
-** Created by: Qt User Interface Compiler version 5.7.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -534,11 +534,11 @@ public:
 
     void retranslateUi(QDialog *ConfigurationForm)
     {
-        ConfigurationForm->setWindowTitle(QApplication::translate("ConfigurationForm", "Project Configuration", 0));
-        groupBox->setTitle(QApplication::translate("ConfigurationForm", "Sprite Settings", 0));
-        label_4->setText(QApplication::translate("ConfigurationForm", "Px", 0));
-        label_5->setText(QApplication::translate("ConfigurationForm", "Px", 0));
-        label->setText(QApplication::translate("ConfigurationForm", "Size", 0));
+        ConfigurationForm->setWindowTitle(QApplication::translate("ConfigurationForm", "Project Configuration", Q_NULLPTR));
+        groupBox->setTitle(QApplication::translate("ConfigurationForm", "Sprite Settings", Q_NULLPTR));
+        label_4->setText(QApplication::translate("ConfigurationForm", "Px", Q_NULLPTR));
+        label_5->setText(QApplication::translate("ConfigurationForm", "Px", Q_NULLPTR));
+        label->setText(QApplication::translate("ConfigurationForm", "Size", Q_NULLPTR));
     } // retranslateUi
 
 };

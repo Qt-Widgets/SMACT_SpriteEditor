@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'mainwindow.ui'
 **
-** Created by: Qt User Interface Compiler version 5.7.0
+** Created by: Qt User Interface Compiler version 5.9.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -892,27 +892,27 @@ public:
 
     void retranslateUi(QMainWindow *MainWindow)
     {
-        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "Sprite Editor eXtreme", 0));
-        actionCanvasSize_2->setText(QApplication::translate("MainWindow", "Configuration", 0));
+        MainWindow->setWindowTitle(QApplication::translate("MainWindow", "Sprite Editor eXtreme", Q_NULLPTR));
+        actionCanvasSize_2->setText(QApplication::translate("MainWindow", "Configuration", Q_NULLPTR));
 #ifndef QT_NO_TOOLTIP
-        actionCanvasSize_2->setToolTip(QApplication::translate("MainWindow", "Open configuration page", 0));
+        actionCanvasSize_2->setToolTip(QApplication::translate("MainWindow", "Open configuration page", Q_NULLPTR));
 #endif // QT_NO_TOOLTIP
-        actionSave_as->setText(QApplication::translate("MainWindow", "Save as...", 0));
-        actionOpen_project->setText(QApplication::translate("MainWindow", "Open project...", 0));
-        actionExportToGif->setText(QApplication::translate("MainWindow", "Export to Gif", 0));
-        framesBox->setTitle(QApplication::translate("MainWindow", "Frames", 0));
-        delete_Frame_Button->setText(QApplication::translate("MainWindow", "Delete Frame", 0));
-        previous_frame_button->setText(QApplication::translate("MainWindow", "...", 0));
-        play_button->setText(QApplication::translate("MainWindow", "...", 0));
-        next_frame_button->setText(QApplication::translate("MainWindow", "...", 0));
-        add_frame_button->setText(QApplication::translate("MainWindow", "Add Frame", 0));
+        actionSave_as->setText(QApplication::translate("MainWindow", "Save as...", Q_NULLPTR));
+        actionOpen_project->setText(QApplication::translate("MainWindow", "Open project...", Q_NULLPTR));
+        actionExportToGif->setText(QApplication::translate("MainWindow", "Export to Gif", Q_NULLPTR));
+        framesBox->setTitle(QApplication::translate("MainWindow", "Frames", Q_NULLPTR));
+        delete_Frame_Button->setText(QApplication::translate("MainWindow", "Delete Frame", Q_NULLPTR));
+        previous_frame_button->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        play_button->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        next_frame_button->setText(QApplication::translate("MainWindow", "...", Q_NULLPTR));
+        add_frame_button->setText(QApplication::translate("MainWindow", "Add Frame", Q_NULLPTR));
         brush_Button->setText(QString());
         fill_Bucket_Button->setText(QString());
         eraser_Button->setText(QString());
         rectangle_button->setText(QString());
         leftColor->setText(QString());
-        label->setText(QApplication::translate("MainWindow", "Left Color", 0));
-        tabWidget->setTabText(tabWidget->indexOf(tab), QApplication::translate("MainWindow", "Tab 1", 0));
+        label->setText(QApplication::translate("MainWindow", "Left Color", Q_NULLPTR));
+        tabWidget->setTabText(tabWidget->indexOf(tab), QApplication::translate("MainWindow", "Tab 1", Q_NULLPTR));
         rotate_Left_Button->setText(QString());
         zoom_Out_Button->setText(QString());
         rotate_Right_Button->setText(QString());
@@ -920,13 +920,13 @@ public:
         flip_Horizontally->setText(QString());
         flip_Vertically->setText(QString());
         colorFilter->setText(QString());
-        colorFilterBox->setText(QApplication::translate("MainWindow", "Filter", 0));
-        tabWidget->setTabText(tabWidget->indexOf(tab_2), QApplication::translate("MainWindow", "Tab 2", 0));
-        label_2->setText(QApplication::translate("MainWindow", "Undo/Redo", 0));
+        colorFilterBox->setText(QApplication::translate("MainWindow", "Filter", Q_NULLPTR));
+        tabWidget->setTabText(tabWidget->indexOf(tab_2), QApplication::translate("MainWindow", "Tab 2", Q_NULLPTR));
+        label_2->setText(QApplication::translate("MainWindow", "Undo/Redo", Q_NULLPTR));
         undo_button->setText(QString());
         redo_button->setText(QString());
-        carryOverBox->setText(QApplication::translate("MainWindow", "Blank Frame", 0));
-        menuFile->setTitle(QApplication::translate("MainWindow", "File", 0));
+        carryOverBox->setText(QApplication::translate("MainWindow", "Blank Frame", Q_NULLPTR));
+        menuFile->setTitle(QApplication::translate("MainWindow", "File", Q_NULLPTR));
     } // retranslateUi
 
 };
